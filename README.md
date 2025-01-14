@@ -20,7 +20,7 @@ Run the App: Once the dependencies are installed, run the application using the 
 This will launch the application in your web browser.
 
 ## Try it Out!
-Check out the application on ]Hugging Face Space](https://huggingface.co/spaces/hanifekaptan/Pima_Women_Diabetes_Prediction_BC).
+Check out the application on [Hugging Face Space](https://huggingface.co/spaces/hanifekaptan/Pima_Women_Diabetes_Prediction_BC).
 
 ## Contact Information
 For any questions or feedback, feel free to contact me on [LinkedIn](https://www.linkedin.com/in/hanifekaptan-u1f90d/).
