@@ -16,9 +16,11 @@ The Pima Women Diabetes Prediction Project aims to predict the likelihood of dia
 **Install Dependencies:** Open your terminal or command prompt, navigate to the directory containing the downloaded files, and run:
 
 > pip install -r requirements.txt
+
 Run the App: Once the dependencies are installed, run the application using the following command in your terminal:
 
 > streamlit run app.py
+
 This will launch the application in your web browser.
 
 ## Try it Out!
