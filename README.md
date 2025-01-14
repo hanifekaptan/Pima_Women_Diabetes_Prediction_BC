@@ -1,1 +1,2 @@
-# Pime_Women_Diabetes_Prediction_BC
+# Pima Women Diabetes Prediction
+Bu veri seti aslen Ulusal Diyabet ve Sindirim ve Böbrek Hastalıkları Enstitüsü'nden alınmıştır. Veri setinin amacı, veri setinde yer alan belirli tanısal ölçümlere dayanarak bir hastanın diyabet hastası olup olmadığını tanısal olarak tahmin etmektir. Bu örneklerin daha büyük bir veritabanından seçilmesine ilişkin birkaç kısıtlama getirilmiştir. Özellikle, buradaki tüm hastalar en az 21 yaşında olan ve Pima Kızılderilisi mirasına sahip kadınlardır.
