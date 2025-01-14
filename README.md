@@ -10,7 +10,9 @@ The Pima Women Diabetes Prediction Project aims to predict the likelihood of dia
 
 ## Installation
 **Download:** Download the app.py and requirements.txt files from this repository.
+
 **Model Setup:** To set up the model ready-made, you can download the model.keras and scaler.pkl files. Alternatively, you can download the model.py and diabetes.csv files to set up the model yourself.
+
 **Install Dependencies:** Open your terminal or command prompt, navigate to the directory containing the downloaded files, and run:
 
 > pip install -r requirements.txt
